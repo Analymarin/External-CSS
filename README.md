@@ -1,2 +1,2 @@
-# analymarin.github.io-recipe
+# analymarinrecipe.github.io
 My favorite recipe
